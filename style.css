@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    font:18px 'Bungee';
+    margin-top: 50;
+    margin-bottom: 50;
+    margin-left: 200;
+    margin-right: 200;
+
+
+}
+
+.box {
+    margin-bottom:10px;
+}
+
+}
+button {
+
+
+
+}
+
+
+
